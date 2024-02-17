@@ -1,0 +1,58 @@
+
+
+h1 {
+    color: White;
+}
+
+h4 {
+    color: red;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color:crimson;
+}
+
+pre {
+    color: white;
+}
+
+
+body {
+    background-color: rgb(44, 42, 42);
+}
+
+
+a {
+
+    color: rgb(237, 162, 50);
+
+}
+
+
+#linecolor {
+    text-decoration: rgb(141, 116, 7) underline;
+}
+
+.centerallign {
+
+    text-align: center;
+
+}
+
+
+li {
+    color: white;
+}
+
+img {
+    color: rgb(44, 42, 42);
+}
+
